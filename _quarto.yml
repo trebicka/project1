@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+    
+  title: "Glen's Tours"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+        icon: "house-door-fill"
+      - href: tours.qmd
+        text: City Tours
+      - href: dashboard.qmd
+        text: Assignment 2 Dashboard
+      - href: about.qmd
+        text: about 
+
+format:
+  html:
+    theme:
+      - sandstone
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,60 @@
+---
+title: ""
+format: html
+---
+
+# Walking Tours:
+
+-   Brooklyn Bridge Tour
+
+-   Food Tour in Hell's Kitchen
+
+-   Private Tours
+
+## Brooklyn Bridge
+
+When we think of New York, our minds inevitably lead us to visualize one of the Big Apple's most important symbols: the Brooklyn Bridge.\
+\
+Since 1883, this architectural masterpiece (for a long time it was the longest suspension bridge in the world) has connected the island of Manhattan with the neighboring borough of Brooklyn. Thanks to our tour you will have the opportunity to get to know this part of New York history from Dumbo to the Seaport. The highlight is: An unforgettable walk on the Brooklyn Bridge at sunset.\
+\
+The tour consists of two parts. First you explore the Dumbo district, in the heart of Brooklyn, with an Urban Explorer. In the background you can see the breathtaking Manhattan skyline.\
+\
+During sunset, cross the bridge for a beautiful walk to Seaport Village (the historic heart of Manhattan). You will be enchanted by unforgettable plays of light and color, with views of the skyscrapers, the Statue of Liberty, the East River and the legendary arches of the bridge.\
+\
+The tour ends in Seaport Village, but not before visiting the beautiful area surrounded by skyscrapers, sailboats and restaurants. Your Urban Explorer will be happy to give you tips for what to do in the evening if you want to spend it there.\
+
+After booking, you will receive a confirmation email, which is valid as a ticket for the excursion.\
+
+In the event of rain, the visit to Seaport Village will be replaced by a visit to Wall Street.
+
+```{=html}
+<button onclick="document.location='default.asp'">Book now</button>
+```
+
+## Food Tour in Hell's Kitchen
+
+Hell's Kitchen has the most authentic restaurants in the Big Apple. Chains, big money and large corporations are not welcome here and so this listed area, with the wonderful old fire escape buildings, remains untouched by commerce to this day, where immigrants from all over the world have been settling for many generations.\
+\
+This is reflected in the food on offer. This area has the most traditional dishes and cuisines from all over the world. We take your palate on a trip through the cuisines of the world.\
+\
+1. You can't miss a typical American dish, you'll try the best in Hell's Kitchen, more precisely from the southern states. We're going to have to sit down for this because it's so delicious it'll make you weak in the knees.\
+
+2\. Next there is something delicious from southern Europe, the people in the Balkans know something about food, we taste something typical that these immigrants brought to New York.\
+
+3\. Going to New York and not trying something Asian in Hell's Kitchen would be a case for the NYPD. The 1970s and early 1980s brought the largest wave of Asian migrants to the United States. The poorest settled in Hell's Kitchen and to this day it has the best home cooking from all over Asia, your taste buds will be amazed.\
+
+4\. 70% of New Yorkers speak Spanish and come from South America, they also brought their delicious dishes with them, we try one of them.\
+
+5\. Finally, we enjoy a bedside table that is freshly prepared every hour. What is it? Where does it come from? The answer is available on the tour, every Wednesday at 12 p.m. The only requirement is that you come with an empty stomach.
+
+```{=html}
+<button onclick="document.location='default.asp'">Book Now</button>
+```
+
+## Private Tours
+
+New York is a city that has a lot to offer. But it is also a city that hides many of its beautiful secrets. If you want to find these hidden places and really get to know the city, contact an "Urban Explorer". He will let you discover places and details that you would find difficult or impossible to see on your own. The tour takes place on foot or in a luxurious Mercedes Sprinter van. If you wish to use taxis or other means of transport, the costs must be borne by you and the guide will suggest the best and cheapest options for this. The tour starts from your hotel or another location you specify and ends where you wish, total duration can be freely chosen by you. Furthermore, our "Urban Explorers" are also great photographers to whom you can trust your smartphone or camera without regret to capture the wonderful moments forever! We will contact you by email after booking with details.
+
+```{=html}
+<button onclick="document.location='https://meintripnachnewyork.com/en/products/3-stunden-lange-privat-tour'">Book Now</button>
+```

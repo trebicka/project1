@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+Our mission is to make your New York city visit unforgettable!
+
+Your urban explorer will guide you through the city, exploring hidden and not so secret gems.
+
+All of our tours are designed for small groups (no more than 5)
+
+## We would love to hear from you:
+
+If you are interested in booking with us please contact at:
+
+```{=html}
+<a href="mailto:trebickatree@gmail.com">Send email to Glen</a>
+```
